@@ -13,8 +13,8 @@ The increasing interest in virtual and augmented reality technologies has also h
 
 ## Sample Video
 
-[Sample](<Sample Video.mov>)
 [View Sample Videos on Google Drive](https://drive.google.com/drive/u/0/folders/1At0H_LtaKik6nzdO--adfKAOhZh1OA0Z)
+<video controls src="Sample Video.mp4" title="Sample"></video>
 
 ## Features
 
