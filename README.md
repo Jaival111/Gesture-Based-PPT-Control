@@ -11,6 +11,13 @@ In today's fast-paced world, presentations are a critical part of sharing ideas 
 
 The increasing interest in virtual and augmented reality technologies has also highlighted the potential for gesture-based controls in various applications. By using computer vision and hand tracking, we can create a more interactive experience that not only makes presentations smoother but also showcases the possibilities of modern technology in education and business environments.
 
+## Sample Video
+
+<video width="600" controls>
+    <source src="https://github.com/THE-DEEPDAS/Gesture-Based-PPT-Control/raw/master/Sample%20Video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
 ## Features
 
 - **Gesture Recognition**: Utilizes hand tracking to detect specific gestures for navigating slides:
