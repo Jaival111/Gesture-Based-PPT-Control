@@ -13,9 +13,9 @@ The increasing interest in virtual and augmented reality technologies has also h
 
 ## Sample Video
 
-[View Sample Videos on Google Drive](https://drive.google.com/file/d/1BqL37Z7qmuJ_w107SL2ol4DRK95nTM3-/view?t=4)
+[View Sample Videos on Google Drive](https://drive.google.com/file/d/1DQ9ijfiHRqt2zZ-WuV6Y0ADbh-HOl4uW/view)
 <video width="600" controls autoplay loop>
-  <source src="https://drive.google.com/file/d/1BqL37Z7qmuJ_w107SL2ol4DRK95nTM3-/view?t=4" type="video/mp4">
+  <source src="https://drive.google.com/file/d/1DQ9ijfiHRqt2zZ-WuV6Y0ADbh-HOl4uW/view" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
