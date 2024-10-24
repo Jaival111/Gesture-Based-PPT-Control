@@ -13,8 +13,8 @@ The increasing interest in virtual and augmented reality technologies has also h
 
 ## Sample Video
 
-<video width="600" controls autoplay loop>
-  <source src="https://raw.githubusercontent.com/THE-DEEPDAS/Gesture-Based-PPT-Control/master/Sample%20Video.mp4" type="video/mp4">
+<video width="640" height="480" autoplay muted loop>
+  <source src="https://drive.google.com/drive/u/0/folders/1At0H_LtaKik6nzdO--adfKAOhZh1OA0Z" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
