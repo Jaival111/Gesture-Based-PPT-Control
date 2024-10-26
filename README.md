@@ -12,9 +12,7 @@ The increasing interest in virtual and augmented reality technologies has also h
 
 ## Sample Video
 
-![Sample video is being played](./main%20video.gif)
-<img src="./main%20video.gif" alt="Sample video is being played" width="400" height="300">
-
+<img src="./main%20video.gif" alt="Sample video is being played" width="500" height="400">
 
 ## Features
 
