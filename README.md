@@ -1,4 +1,3 @@
-
 # PowerPoint Gesture Control Presentation
 
 ## Overview
@@ -13,7 +12,9 @@ The increasing interest in virtual and augmented reality technologies has also h
 
 ## Sample Video
 
-![Draw: drawing directly on screen](./main%20video.gif)
+![Sample video is being played](./main%20video.gif)
+<img src="./main%20video.gif" alt="Sample video is being played" width="400" height="300">
+
 
 ## Features
 
@@ -21,7 +22,6 @@ The increasing interest in virtual and augmented reality technologies has also h
   - Waving right with any hand advances to the next slide.
   - Waving left with any hand returns to the previous slide.
   - Making a fist (all fingers down) stops the slideshow.
-  
 - **Real-Time Interaction**: The application operates in real-time, allowing for immediate feedback as gestures are detected.
 
 - **PowerPoint Integration**: Directly interacts with Microsoft PowerPoint, making it easy to control slides without needing third-party applications.
@@ -39,12 +39,14 @@ Make sure you have Python installed on your system. It's recommended to use a vi
 ### Setup
 
 1. **Clone the Repository**
+
    ```bash
    git clone <repository-url>
    cd <repository-directory>
    ```
 
 2. **Create a Virtual Environment (Optional but recommended)**
+
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
@@ -52,13 +54,16 @@ Make sure you have Python installed on your system. It's recommended to use a vi
 
 3. **Install Required Packages**
    Create a file named `requirements.txt` in the project directory and include the following:
+
    ```plaintext
    opencv-python
    cvzone
    pywin32
    numpy
    ```
+
    Then install the dependencies:
+
    ```bash
    pip install -r requirements.txt
    ```
@@ -76,8 +81,8 @@ Make sure you have Python installed on your system. It's recommended to use a vi
 ### Usage
 
 1. **Position Yourself**: Make sure your webcam can capture your hand movements clearly. Position yourself at a reasonable distance from the camera.
-   
-2. **Control Presentation**: Use the specified hand gestures to navigate through the slides. 
+2. **Control Presentation**: Use the specified hand gestures to navigate through the slides.
+
    - Wave right to move to the next slide.
    - Wave left to go back to the previous slide.
    - Make a fist to stop the presentation.
