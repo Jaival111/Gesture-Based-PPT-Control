@@ -32,6 +32,7 @@ def is_slide_show_running():
         return False
 
 while True:
+    # just wanted to put a random comment
     # Capturing webcam frame
     success, img = cap.read()
     if not success:

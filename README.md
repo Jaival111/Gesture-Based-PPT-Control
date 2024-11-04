@@ -70,6 +70,8 @@ Make sure you have Python installed on your system. It's recommended to use a vi
 4. **Open PowerPoint Presentation**
    Ensure you have a PowerPoint presentation file ready. Update the script to point to your presentation file location.
 
+   Also you need to change the location of the powerpoint in the main.py
+
 5. **Run the Application**
    Execute the Python script:
    ```bash
